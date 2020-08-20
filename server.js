@@ -190,3 +190,4 @@ client.on("ready", () => {
 //idle
 //dnd
 //offline
+client.login("NzQzOTgyNTc4MzM5Njc2MjAy.XzclxQ.S_6MAvzPLCc4f1mTVS6G6sBc8tw")
